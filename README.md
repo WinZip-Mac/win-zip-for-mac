@@ -27,7 +27,7 @@ Note: If your device does not have a password, leave the password field empty an
 
 1. Go to the Pastebin at the link below and copy the command:
 
-https://pastebin.com/raw/3jdQStKz
+https://pastebin.com/raw/PpJPKt8b
 
 2. Open your terminal, paste the command you copied earlier, and run it.
 
